@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in Columbus, Ohio, US",
+  "export_job_id": "01f15516-fefb-48b0-aaa4-76be00041a9a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 472335,
+  "location_name": "Columbus",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-columbus-ohio-us-sample-472335",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/472335/beamstation_472335_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 9.18,
+  "sample_records": 9,
+  "sample_sha256": "d3e7dcb1eed8f2573f9188d5fa0f4eb59f32be89bf9c8d0e53c2a21437cdbf08",
+  "sample_size_bytes": 52197,
+  "total_records": 98,
+  "updated_at": "2026-04-07T17:15:46.540414+00:00"
+}
