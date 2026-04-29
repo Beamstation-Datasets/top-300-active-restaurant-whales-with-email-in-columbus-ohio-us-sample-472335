@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Columbus, Ohio, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `472335` |
 | Location | Columbus |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-22T02:08:43.593510+00:00 |
+| Full dataset size | 101 records |
+| Free sample size | 10 records (9.9%) |
+| Last export | 2026-04-29T05:13:40.367552+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-columbus-ohio-us-sample-472335/releases/download/sample-latest/beamstation_472335_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
