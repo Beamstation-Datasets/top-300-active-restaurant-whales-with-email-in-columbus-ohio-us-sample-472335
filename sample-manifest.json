@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cbe3b67d-8957-42c2-bc94-22df9332b94a",
+  "export_job_id": "483535ab-2077-466c-a062-d82e68468f65",
   "id_short": 472335,
-  "published_at": "2026-04-22T07:32:28Z",
+  "published_at": "2026-04-29T07:15:06Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-columbus-ohio-us-sample-472335",
   "sample_asset_name": "beamstation_472335_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/472335/beamstation_472335_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "f17abf4f039a02898ab7b38e869c1af93e128798b0f17501ae823ccec31b5838",
-  "sample_size_bytes": 32209,
-  "total_records": 47
+  "sample_records": 10,
+  "sample_sha256": "0a01780aaeed314ed4606bcd413721f833d05f111cc687d612277f8c5828bdd1",
+  "sample_size_bytes": 61781,
+  "total_records": 101
 }
